@@ -1,0 +1,36 @@
+*{
+    box-align: border-box;
+    padding: 0;
+    margin: 0
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+
+}
+
+table{
+    margin: auto;
+    margin-top: 150px;
+}
+
+.vertical{
+    border-right: 2px solid blueviolet;
+    border-left: 2px solid blueviolet;
+
+}
+
+.horizontal{
+    border-top: 2px solid blueviolet;
+    border-bottom: 2px solid blueviolet;
+
+}
+
